@@ -1,0 +1,11 @@
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\obj\Debug\CrudDsLojaGitHub.csproj.AssemblyReference.cache
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\obj\Debug\CrudDsLojaGitHub.CadFuncionario.resources
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\obj\Debug\CrudDsLojaGitHub.Menu.resources
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\obj\Debug\CrudDsLojaGitHub.Properties.Resources.resources
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\obj\Debug\CrudDsLojaGitHub.csproj.GenerateResource.cache
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\obj\Debug\CrudDsLojaGitHub.csproj.CoreCompileInputs.cache
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\bin\Debug\CrudDsLojaGitHub.exe.config
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\bin\Debug\CrudDsLojaGitHub.exe
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\bin\Debug\CrudDsLojaGitHub.pdb
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\obj\Debug\CrudDsLojaGitHub.exe
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\obj\Debug\CrudDsLojaGitHub.pdb
