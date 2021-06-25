@@ -22,5 +22,11 @@ namespace CrudDsLojaGitHub
             CadFuncionario funcionario = new CadFuncionario();
             funcionario.ShowDialog();
         }
+
+        private void toolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            CadFornecedor fornecedor = new CadFornecedor();
+            fornecedor.ShowDialog();
+        }
     }
 }

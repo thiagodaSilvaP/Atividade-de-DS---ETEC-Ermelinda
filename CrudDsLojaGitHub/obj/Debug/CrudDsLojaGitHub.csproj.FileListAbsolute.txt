@@ -9,3 +9,4 @@ C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\bin\Debug\CrudDsLojaGitHub.exe
 C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\bin\Debug\CrudDsLojaGitHub.pdb
 C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\obj\Debug\CrudDsLojaGitHub.exe
 C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\obj\Debug\CrudDsLojaGitHub.pdb
+C:\Atividade\ds\CrudDsLojaGitHub\CrudDsLojaGitHub\obj\Debug\CrudDsLojaGitHub.CadFornecedor.resources
