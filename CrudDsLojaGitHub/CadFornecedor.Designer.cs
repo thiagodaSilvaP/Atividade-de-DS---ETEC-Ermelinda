@@ -75,21 +75,21 @@ namespace CrudDsLojaGitHub
             // 
             // btn_del
             // 
-            this.btn_del.Location = new System.Drawing.Point(439, 241);
+            this.btn_del.Location = new System.Drawing.Point(430, 241);
             this.btn_del.Name = "btn_del";
-            this.btn_del.Size = new System.Drawing.Size(180, 48);
+            this.btn_del.Size = new System.Drawing.Size(200, 48);
             this.btn_del.TabIndex = 74;
-            this.btn_del.Text = "button3";
+            this.btn_del.Text = "Delete";
             this.btn_del.UseVisualStyleBackColor = true;
             this.btn_del.Click += new System.EventHandler(this.btn_del_Click);
             // 
             // btn_update
             // 
-            this.btn_update.Location = new System.Drawing.Point(221, 241);
+            this.btn_update.Location = new System.Drawing.Point(224, 241);
             this.btn_update.Name = "btn_update";
-            this.btn_update.Size = new System.Drawing.Size(212, 48);
+            this.btn_update.Size = new System.Drawing.Size(200, 48);
             this.btn_update.TabIndex = 73;
-            this.btn_update.Text = "button2";
+            this.btn_update.Text = "Atualizar";
             this.btn_update.UseVisualStyleBackColor = true;
             this.btn_update.Click += new System.EventHandler(this.btn_update_Click);
             // 
@@ -97,9 +97,9 @@ namespace CrudDsLojaGitHub
             // 
             this.btn_cad.Location = new System.Drawing.Point(18, 241);
             this.btn_cad.Name = "btn_cad";
-            this.btn_cad.Size = new System.Drawing.Size(197, 48);
+            this.btn_cad.Size = new System.Drawing.Size(200, 48);
             this.btn_cad.TabIndex = 72;
-            this.btn_cad.Text = "button1";
+            this.btn_cad.Text = "Cadastar";
             this.btn_cad.UseVisualStyleBackColor = true;
             this.btn_cad.Click += new System.EventHandler(this.btn_cad_Click);
             // 
